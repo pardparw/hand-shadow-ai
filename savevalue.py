@@ -30,7 +30,7 @@ except Exception as e:
 # --- Configuration ---
 
 # Bg Remove
-BACKGROUND_TYPE = "color" 
+BACKGROUND_TYPE = "color"  # Change this to "color", "image", or "blur"
 
 # For "color" background
 BG_COLOR = (0, 0, 0)  # background color in BGR format

@@ -1,1 +1,0 @@
-# hand-shadow-ai
