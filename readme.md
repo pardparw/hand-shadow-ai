@@ -11,4 +11,7 @@
 > python -m venv env
 > env\Scripts\activate
 > pip install opencv-python ultralytics mediapipe numpy
+
+
+
 ```
